@@ -3,6 +3,7 @@
 Project Structure are following.
 
 ```bash
+src directory
 |
 |
 |———— actions
@@ -145,9 +146,8 @@ Project Structure are following.
 |         document.getElementById("root")
 |       );
 |
-|
-|
-|
-|
-|
+
+webpack.config.js
+
+
 ```
