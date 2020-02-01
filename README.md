@@ -3,7 +3,7 @@
 Project Structure are following.
 
 * [Updating to New Releases]
-*[Available Scripts]
+* [Available Scripts]
   * [npm start]
   * [npm test]
   * [npm run ios]
